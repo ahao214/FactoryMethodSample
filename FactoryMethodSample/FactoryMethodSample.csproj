@@ -42,7 +42,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DatabaseLogger.cs" />
+    <Compile Include="DatabaseLoggerFactory.cs" />
     <Compile Include="FileLogger.cs" />
+    <Compile Include="FileLoggerFactory.cs" />
     <Compile Include="Logger.cs" />
     <Compile Include="LoggerFactory.cs" />
     <Compile Include="Program.cs" />
